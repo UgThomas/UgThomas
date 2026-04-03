@@ -37,22 +37,5 @@ Me chamo [João Vitor](https://www.instagram.com/jaoo.thomas/), estou focado em 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=UgThomas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugthomas&theme=tokyonight&&custom_title=Tecnologias&langs_count=3" 
-  />
 
 </p>
